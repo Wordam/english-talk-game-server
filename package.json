@@ -1,0 +1,33 @@
+{
+  "name": "english-talk-game-server",
+  "version": "0.0.1",
+  "description": "Server of a small english game",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.5.9",
+    "restify": "^4.1.1",
+    "ginger-correct": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loicmarie/simple-mongodb-CRUD.git"
+  },
+  "keywords": [
+    "wharf",
+    "api",
+    "docker",
+    "images",
+    "dockerfile",
+    "compose"
+  ],
+  "author": "Loïc MARIE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loicmarie/simple-mongodb-CRUD/issues"
+  },
+  "homepage": "https://github.com/loicmarie/simple-mongodb-CRUD#readme"
+}
